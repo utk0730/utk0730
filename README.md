@@ -14,6 +14,10 @@ I'm Utkarsh from India. I am a frontend engineer.
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utk0730)](https://github.com/utk0730/github-readme-stats)
+
 <!--
 **utk0730/utk0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
