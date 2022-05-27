@@ -1,5 +1,15 @@
 ### Hi there 👋
 I'm Utkarsh from India. I am a frontend engineer. 
+
+**Languages I have used**
+
+![Javascript](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+
+
+**Some of the technologies I have worked with**
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 <!--
 **utk0730/utk0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
