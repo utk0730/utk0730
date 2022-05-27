@@ -3,7 +3,7 @@ I'm Utkarsh from India. I am a frontend engineer.
 
 **Languages I have used**
 
-![Javascript](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![Javascript]
 
 
 **Some of the technologies I have worked with**
