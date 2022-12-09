@@ -7,6 +7,7 @@ I'm Utkarsh from India. I am a frontend engineer.
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=42b883)
 
 
 
